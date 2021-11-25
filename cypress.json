@@ -1,0 +1,4 @@
+{
+  "fileServerFolder": "tests/shopOnline",
+  "testFiles": "**/*.{feature,features}"
+}
